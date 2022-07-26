@@ -1,0 +1,40 @@
+﻿Grace Narez
+Full Stack Software Engineer
+Olympia, WA | (360) 259-6496 | Email | GitHub | LinkedIn  
+
+
+I am a charismatic and self-motivated software engineer, with a passion for solutions as well as learning from failure. The sensation of accomplishment through trial and error drives my passionate and open-minded approach to problem solving. I am malleable to and adaptable to any environment, where I can use my proven strategies to arrive at the needed solution.
+
+
+SKILLS
+* Programming Languages: HTML5, CSS, JavaScript, Python, Mongoose.
+* Databases and Frameworks: Node, Express, Axios, EJS, Bootstrap, React, SQL, Postgres, NoSQL, Next.js.
+* Other Technologies: Git, Github, Slack, Object-oriented Programming, Sequelize, RESTful API, Object Oriented Programming. 
+
+
+RELEVANT EXPERIENCE
+Software Engineering Immersive | General Assembly | Remote | April 2022-July 2022
+Successfully completed 500+ hours of expert led applied computer science fundamentals using the industry's most in-demand technologies. Learned front end and back end languages including Javascript, HTML, CSS, and Node. Developed projects, including:
+* Rat On a Scooter: Built using HTML, Canvas, Javascript, and styled using CSS. Repo Here! | Deployed Game Here!
+* Walkie Doggie: Built with Javascript, EJS, and used APIs. Repo Here! | Deployed App Here!
+* DettiPOS: Worked alongside two group members to create a MERN stack application. Repo Here! | Deployed App Here!
+* Star Wars Sheets: Worked with a partener to build a MERN stack application styled with tailwind. Repo Here! | Deployed App Here!
+Cashier/Receptionist/Accounts Payable | Capitol City Honda | Olympia, WA | February 2020 - Present
+* Handled up to 300 customer interactions/transactions a day consisting of posting business transactions, processing invoices, verifying financial data for use in maintaining accounts payable records and aiding customers with their transactions and day to day service needs
+* Handled a multi-level telephone system transferring and directing calls throughout the work day
+* Input daily bookkeeping and record keeping and daily balancing of till and receipts
+* Maintained meticulous records of outstanding payables
+
+
+Child Care Assistant Teacher | Capitol Campus Child Care | Olympia, WA | August 2018 - February 2020
+* Colaborated with a team of teachers to draw up lesson plans
+* Cared for children under 6 and children with disabilities
+
+
+
+
+EDUCATION
+General Assembly | Software Engineering Immersive | Remote | April 2022-Certificate Expected July 2022
+
+
+South Puget Sound Community College | Nursing related coursework | Olympia, WA | September 2018-January 2020
